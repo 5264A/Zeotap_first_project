@@ -19,7 +19,8 @@ A React application that allows users to create, combine, and evaluate rules. Th
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/amantripathigithub/Application-1-Rule-Engine-with-ASTengine.git
+gut clone https://github.com/amantripathigithub/Application-1-Rule-Engine-with-AST.git
+
 cd rule-engine
 
 
