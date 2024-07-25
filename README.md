@@ -9,6 +9,8 @@ A React application that allows users to create, combine, and evaluate rules. Th
 - **Evaluate Rule**: Evaluates the combined AST against provided JSON data to determine if the data satisfies the rule.
 - **Visualize AST**: Displays the AST of individual rules and the combined AST as a tree structure using `react-d3-tree`.
 
+- **NOTE** : when we click on create rule -> a tree is generated and shown at frontend but it is in left-most corner , you need to drag it to the center to clearly see it , same happens when we click on combine rules.
+
 ## Prerequisites
 
 - Node.js (v14 or later)
