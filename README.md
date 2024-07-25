@@ -19,9 +19,9 @@ A React application that allows users to create, combine, and evaluate rules. Th
 ### Clone the Repository
 
 ```bash
-gut clone https://github.com/amantripathigithub/Application-1-Rule-Engine-with-AST.git
+git clone https://github.com/amantripathigithub/Application-1-Rule-Engine-with-AST.git
 
-cd rule-engine
+cd Application-1-Rule-Engine-with-AST.git
 
 
 
@@ -40,7 +40,7 @@ Install dependencies:
 
 Start the backend server:
 
----npm start
+---node index.js
 
 The backend server will run on http://localhost:5000.
 
@@ -62,6 +62,8 @@ Install dependencies:
 Start the frontend development server:
 
 ---npm start
+
+
 The frontend server will run on http://localhost:3000.
 
 
